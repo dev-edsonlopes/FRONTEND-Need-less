@@ -1,2 +1,4 @@
-# FRONTEND-Need-less
-Needless project frontend application
+# Anotações
+
+- [Radix](https://www.radix-ui.com/)
+- [Sonner](https://sonner.emilkowal.ski/)

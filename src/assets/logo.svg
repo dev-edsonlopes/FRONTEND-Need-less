@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="87px" height="76px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 87 75.99"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="727" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="500">
+	<font-face 
+		font-family="LondonTwo">
+		<font-face-src>
+			<font-face-name name="LondonTwo"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="L" horiz-adv-x="548" d="M214 695.973l-136.001 0 0 -706.964 468.976 0 -50.0002 113.98 -282.975 0 0 592.984z"/>
+   <glyph unicode="N" horiz-adv-x="818" d="M740.035 697.044l-135.005 0 0 -474.031 -418.017 468.021 -108 54.0106 0 -756.042 136.007 0 0 477.015 421.001 -471.026 104.014 -52.9875 0 755.04z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"LondonTwo";font-variant:normal;font-style:normal;font-weight:500;src:url("#FontID0") format(svg)}
+    .str0 {stroke:black;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil2 {fill:#FEFEFE}
+    .fil1 {fill:#727376}
+    .fil0 {fill:black}
+    .fnt1 {font-weight:500;font-size:55.43px;font-family:'LondonTwo'}
+    .fnt0 {font-weight:500;font-size:61.27px;font-family:'LondonTwo'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2729758838832">
+   <path class="fil0 str0" d="M21.63 10.92l56.72 0 0 41.18c0,7.15 -5.85,13 -13,13l-56.72 0 0 -41.18c0,-7.15 5.85,-13 13,-13z"/>
+   <g>
+    <g transform="matrix(0.921575 0 0 1 4.89717 21.4462)">
+     <text x="43.5" y="38"  class="fil1 fnt0">L</text>
+    </g>
+    <g transform="matrix(0.921575 0 0 1 -31.0285 17.8215)">
+     <text x="43.5" y="38"  class="fil2 fnt1">N</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
