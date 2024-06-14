@@ -28,7 +28,7 @@ export default function Main() {
     {
       imageUrl: profile,
       altText: "profile-user",
-      description: "O profissional disposto a atender o usuário",
+      description: "O usuário que necessita de um profissional",
       route: "#",
     },
     {
@@ -67,7 +67,7 @@ export default function Main() {
     function handleResize() {
       if (window.innerWidth < 560) {
         setslidesPerView(0.9);
-      } else  if (window.innerWidth < 767) {
+      } else if (window.innerWidth < 767) {
         setslidesPerView(1.5);
       } else if (window.innerWidth < 991) {
         setslidesPerView(2);
@@ -93,8 +93,8 @@ export default function Main() {
   return (
     <main className="flex w-full flex-col items-center">
 
-      <h1 className="my-24 font-shadowDetails text-7xl drop-shadow-none">
-        CONHEÇA O <span className="font-details">NEED LESS</span>
+      <h1 className="my-24 font-bungee-shade text-7xl drop-shadow-none text-primary-950">
+        CONHEÇA O <span className="font-bungee-inline">NEED LESS</span>
       </h1>
 
       <Swiper
